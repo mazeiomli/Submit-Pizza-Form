@@ -15,8 +15,19 @@ Created a web form using Spring that collects information on pizza orders.
 To create this web form, I followed a tutorial that can be found https://spring.io/guides/gs/handling-form-submission/#initial
 or https://github.com/spring-guides/gs-handling-form-submission.
 
+To run the form, you will need JDK 1.8 or later.
+
+Follow this tutorial https://javatutorial.net/set-java-home-windows-10 up until Step 3.
+
+Download the JAR gs-handling-form-submission-0.1.0.jar.
+
+Open Command Prompt.
+Type cd <insert address where JAR file is>
+Then type java -jar gs-handling-form-submission-0.1.0.jar
+
 After running the JAR gs-handling-form-submission-0.1.0.jar, go to
 
     http://localhost:8080/greeting
 
 You should be able to see the form.
+To terminate the form, go to the command prompt where you ran the JAR and press Control-C.
