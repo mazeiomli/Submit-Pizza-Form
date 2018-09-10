@@ -12,7 +12,8 @@
 
 Created a web form using Spring that collects information on pizza orders.
 
-To create this web form, I followed this [tutorial](https://spring.io/guides/gs/handling-form-submission/#initial) .
+To create this web form, I followed a tutorial that can be found https://spring.io/guides/gs/handling-form-submission/#initial
+or https://github.com/spring-guides/gs-handling-form-submission.
 
 After running the JAR gs-handling-form-submission-0.1.0.jar, go to
 
