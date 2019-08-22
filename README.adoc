@@ -10,6 +10,10 @@
 :source-highlighter: prettify
 :project_id: gs-handling-form-submission
 
+# Learning Spring
+
+This project is meant for me to get a glimpse into Spring.
+
 Created a web form using Spring that collects information on pizza orders.
 
 To create this web form, I followed a tutorial that can be found https://spring.io/guides/gs/handling-form-submission/#initial
